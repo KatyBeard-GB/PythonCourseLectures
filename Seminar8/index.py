@@ -1,0 +1,3 @@
+from manu import *
+
+Manu()
